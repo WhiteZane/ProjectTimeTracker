@@ -1,0 +1,9 @@
+c:\users\ghosty\documents\visual studio 2017\Projects\ProjectTimeTracker\ProjectTimeTracker\bin\Debug\netcoreapp1.1\ProjectTimeTracker.deps.json
+c:\users\ghosty\documents\visual studio 2017\Projects\ProjectTimeTracker\ProjectTimeTracker\bin\Debug\netcoreapp1.1\ProjectTimeTracker.runtimeconfig.json
+c:\users\ghosty\documents\visual studio 2017\Projects\ProjectTimeTracker\ProjectTimeTracker\bin\Debug\netcoreapp1.1\ProjectTimeTracker.runtimeconfig.dev.json
+c:\users\ghosty\documents\visual studio 2017\Projects\ProjectTimeTracker\ProjectTimeTracker\bin\Debug\netcoreapp1.1\ProjectTimeTracker.dll
+c:\users\ghosty\documents\visual studio 2017\Projects\ProjectTimeTracker\ProjectTimeTracker\bin\Debug\netcoreapp1.1\ProjectTimeTracker.pdb
+c:\users\ghosty\documents\visual studio 2017\Projects\ProjectTimeTracker\ProjectTimeTracker\obj\Debug\netcoreapp1.1\ProjectTimeTracker.csprojResolveAssemblyReference.cache
+c:\users\ghosty\documents\visual studio 2017\Projects\ProjectTimeTracker\ProjectTimeTracker\obj\Debug\netcoreapp1.1\ProjectTimeTracker.AssemblyInfo.cs
+c:\users\ghosty\documents\visual studio 2017\Projects\ProjectTimeTracker\ProjectTimeTracker\obj\Debug\netcoreapp1.1\ProjectTimeTracker.dll
+c:\users\ghosty\documents\visual studio 2017\Projects\ProjectTimeTracker\ProjectTimeTracker\obj\Debug\netcoreapp1.1\ProjectTimeTracker.pdb
