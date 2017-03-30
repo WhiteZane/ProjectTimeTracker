@@ -13,6 +13,6 @@ namespace ProjectTimeTracker.Models
         public string ActTypeDescrip { get; set; }
 
 
-
+        public ICollection<Activities> Activities { get; set; }
     }
 }

@@ -13,7 +13,9 @@ namespace ProjectTimeTracker.Models
         public int ActivityTypeID { get; set; }
 
         public ActivityTypes ActivityTypes { get; set; }
-        
+
+        public ICollection<TimeLog> TimeLog { get; set; }
+
     }
 }
 
