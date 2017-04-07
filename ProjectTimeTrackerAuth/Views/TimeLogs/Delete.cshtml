@@ -1,0 +1,42 @@
+@model ProjectTimeTrackerAuth.Models.TimeLog
+
+@{
+    ViewData["Title"] = "Delete Time Log";
+    ViewData["Tab"] = "Time Logs";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this Time Log?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <input type="hidden" asp-for="TimeLogID" />
+        <input type="hidden" asp-for="Username" />
+        <dt>
+            @Html.DisplayNameFor(model => model.StartTime)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StartTime)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.EndTime)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EndTime)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Activities)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Activities.ActivityName)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            <a asp-action="Index">Back to List</a>
+        </div>
+    </form>
+</div>

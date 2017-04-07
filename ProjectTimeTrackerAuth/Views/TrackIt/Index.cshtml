@@ -1,0 +1,60 @@
+@model ProjectTimeTrackerAuth.Models.TimeLog
+
+@{
+    ViewData["Title"] = "Track It!";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var currentActivity = "";
+    var currentActivityStart = "";
+    if (ViewBag.LastTimeLog != null) {
+        foreach (var element in ViewBag.ActivityID) {
+            if(Int32.Parse(element.Value) == ViewBag.LastTimeLog.ActivityID) {
+                currentActivity = element.Text;
+                currentActivityStart = ViewBag.LastTimeLog.StartTime.ToString();
+                break;
+            }
+        }
+    }
+}
+
+<h2>Track It!</h2>
+@if (ViewBag.LastTimeLog != null) {
+    <form asp-action="Edit">
+        <input type="hidden" asp-for="TimeLogID" value="@ViewBag.LastTimeLog.TimeLogID"/>
+        <input type="hidden" asp-for="Username" value="@ViewBag.LastTimeLog.Username" />
+        <input type="hidden" asp-for="StartTime" value="@ViewBag.LastTimeLog.StartTime" />
+        <input type="hidden" asp-for="ActivityID" value="@ViewBag.LastTimeLog.ActivityID" />
+        <div class="form-horizontal">
+            <div class="form-group">
+                <dl class="dl-horizontal col-md-6">
+                    <dt>Current Activity:</dt>
+                    <dd><span>@currentActivity</span><br /><span>Start Date/Time: @currentActivityStart</span></dd>
+                </dl>
+                <div class="col-md-2">
+                    <input type="submit" value="STOP!" class="btn btn-danger" />
+                </div>
+            </div>
+
+        </div>
+    </form>
+}
+<form asp-action="Create">
+    <div class="form-horizontal">
+        <div class="form-group">
+            <dl class="dl-horizontal col-md-6">
+                <dt>
+                    <label asp-for="ActivityID" class="control-label text-right">Start:</label>
+                </dt>
+                <dd>
+                    <select asp-for="ActivityID" class="form-control" asp-items="ViewBag.ActivityID">
+                        <option value="">-- Select Activity --</option>
+                    </select>
+                </dd>
+            </dl>
+            <span asp-validation-for="ActivityID" class="text-danger"></span>
+            <div class="col-md-2">
+                <input type="submit" value="GO!" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+</form>

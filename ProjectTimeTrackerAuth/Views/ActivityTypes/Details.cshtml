@@ -1,0 +1,31 @@
+@model ProjectTimeTrackerAuth.Models.ActivityType
+
+@{
+    ViewData["Title"] = "Details";
+    ViewData["Tab"] = "Activity Types";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Activity Type</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ActTypeDescrip)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ActTypeDescrip)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ActTypeProd)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ActTypeProd)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ActivityTypeID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

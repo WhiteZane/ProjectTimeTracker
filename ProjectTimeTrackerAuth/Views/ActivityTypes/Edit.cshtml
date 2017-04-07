@@ -1,0 +1,46 @@
+@model ProjectTimeTrackerAuth.Models.ActivityType
+
+@{
+    ViewData["Title"] = "Edit Activity Type";
+    ViewData["Tab"] = "Activity Types";
+}
+
+<h2>Edit</h2>
+
+<form asp-action="Edit">
+    <div class="form-horizontal">
+        <h4>Activity Type</h4>
+        <hr />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="ActivityTypeID" />
+    <input type="hidden" asp-for="Username" />
+        <div class="form-group">
+            <label asp-for="ActTypeDescrip" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="ActTypeDescrip" class="form-control" />
+                <span asp-validation-for="ActTypeDescrip" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="ActTypeProd" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <div class="checkbox-inline col-md-1">
+                    <input asp-for="ActTypeProd" />
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

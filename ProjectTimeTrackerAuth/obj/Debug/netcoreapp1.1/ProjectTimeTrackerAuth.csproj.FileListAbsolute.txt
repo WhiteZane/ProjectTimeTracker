@@ -1,0 +1,30 @@
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth-master\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\bin\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.deps.json
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth-master\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\bin\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.runtimeconfig.json
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth-master\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\bin\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.runtimeconfig.dev.json
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth-master\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\bin\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.dll
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth-master\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\bin\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.pdb
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth-master\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\obj\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.csprojResolveAssemblyReference.cache
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth-master\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth-master\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\obj\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.AssemblyInfo.cs
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth-master\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\obj\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.dll
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth-master\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\obj\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.pdb
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\bin\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.deps.json
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\bin\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.runtimeconfig.json
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\bin\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.runtimeconfig.dev.json
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\bin\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.dll
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\bin\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.pdb
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\obj\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.csprojResolveAssemblyReference.cache
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\obj\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.AssemblyInfo.cs
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\obj\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.dll
+C:\Users\ghosty\Documents\Visual Studio 2017\Projects\CIT301C-ProjectTimeTrackerAuth\CIT301C-ProjectTimeTrackerAuth-master\ProjectTimeTrackerAuth\obj\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.pdb
+C:\Users\ghosty\Documents\Winter 2017\CIT301\ProjectTimeTracker\ProjectTimeTrackerAuth\bin\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.deps.json
+C:\Users\ghosty\Documents\Winter 2017\CIT301\ProjectTimeTracker\ProjectTimeTrackerAuth\bin\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.runtimeconfig.json
+C:\Users\ghosty\Documents\Winter 2017\CIT301\ProjectTimeTracker\ProjectTimeTrackerAuth\bin\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.runtimeconfig.dev.json
+C:\Users\ghosty\Documents\Winter 2017\CIT301\ProjectTimeTracker\ProjectTimeTrackerAuth\bin\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.dll
+C:\Users\ghosty\Documents\Winter 2017\CIT301\ProjectTimeTracker\ProjectTimeTrackerAuth\bin\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.pdb
+C:\Users\ghosty\Documents\Winter 2017\CIT301\ProjectTimeTracker\ProjectTimeTrackerAuth\obj\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.csprojResolveAssemblyReference.cache
+C:\Users\ghosty\Documents\Winter 2017\CIT301\ProjectTimeTracker\ProjectTimeTrackerAuth\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\ghosty\Documents\Winter 2017\CIT301\ProjectTimeTracker\ProjectTimeTrackerAuth\obj\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.AssemblyInfo.cs
+C:\Users\ghosty\Documents\Winter 2017\CIT301\ProjectTimeTracker\ProjectTimeTrackerAuth\obj\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.dll
+C:\Users\ghosty\Documents\Winter 2017\CIT301\ProjectTimeTracker\ProjectTimeTrackerAuth\obj\Debug\netcoreapp1.1\ProjectTimeTrackerAuth.pdb
